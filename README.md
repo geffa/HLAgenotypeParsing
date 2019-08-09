@@ -1,2 +1,5 @@
 # HLAgenotypeParsing
-Codes to use HLA genotype parsing in one hospital 
+Rules to use HLA genotype parsing in one hospital 
+
+Regular expression using Python version 3
+
